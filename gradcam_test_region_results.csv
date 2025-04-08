@@ -1,0 +1,46 @@
+sample,true_label,region,voxel,activation_score
+0_0,1,Right Cerebral White Matter,"(53, 76, 47)",0.855021595954895
+0_1,1,Right Cerebral White Matter,"(56, 67, 48)",0.8564989566802979
+0_2,1,Right Cerebral White Matter,"(54, 70, 38)",0.977692723274231
+0_3,1,Right Cerebral White Matter,"(52, 67, 50)",0.8624961376190186
+0_4,1,Right Cerebral White Matter,"(54, 70, 40)",0.9402135610580444
+0_5,0,Right Cerebral White Matter,"(55, 77, 46)",0.8858110904693604
+0_6,0,Right Cerebral White Matter,"(54, 74, 50)",0.875456690788269
+0_7,0,Right Cerebral White Matter,"(52, 75, 48)",0.7260938882827759
+1_0,1,Right Cerebral White Matter,"(56, 77, 43)",0.9244838356971741
+1_1,1,Right Cerebral White Matter,"(57, 69, 48)",0.7059093117713928
+1_2,0,Right Cerebral White Matter,"(53, 76, 48)",0.8767207860946655
+1_3,1,Right Cerebral White Matter,"(57, 72, 43)",0.8306753635406494
+1_4,0,Right Cerebral White Matter,"(52, 76, 48)",0.6832268238067627
+1_5,1,Right Cerebral White Matter,"(56, 75, 46)",0.7109898328781128
+1_6,1,Right Cerebral White Matter,"(53, 72, 51)",0.9991245269775391
+1_7,1,Right Cerebral White Matter,"(55, 68, 50)",0.9502304792404175
+2_0,0,Right Cerebral White Matter,"(56, 74, 43)",0.9288619160652161
+2_1,0,Right Cerebral White Matter,"(54, 76, 48)",0.9506961107254028
+2_2,0,Right Cerebral White Matter,"(55, 76, 46)",0.8395505547523499
+2_3,1,Right Cerebral White Matter,"(55, 77, 46)",0.957674503326416
+2_4,1,Right Cerebral White Matter,"(51, 77, 47)",0.9283695220947266
+2_5,0,Right Cerebral White Matter,"(55, 76, 43)",0.7141789793968201
+2_6,0,Right Cerebral White Matter,"(51, 76, 48)",0.9993165135383606
+2_7,0,Right Cerebral White Matter,"(56, 75, 47)",0.9419251680374146
+3_0,0,Right Cerebral White Matter,"(57, 72, 48)",0.8049773573875427
+3_1,0,Right Cerebral White Matter,"(54, 74, 49)",0.8293813467025757
+3_2,0,Right Cerebral White Matter,"(56, 77, 46)",0.9994111061096191
+3_3,0,Right Cerebral White Matter,"(54, 67, 50)",0.8776470422744751
+3_4,1,Right Lateral Ventricle,"(49, 66, 43)",0.8972662091255188
+3_5,0,Right Cerebral White Matter,"(52, 76, 47)",0.7647907137870789
+3_6,0,Right Cerebral White Matter,"(56, 69, 41)",0.7147674560546875
+3_7,1,Right Cerebral White Matter,"(56, 74, 40)",0.8701624870300293
+4_0,1,Right Cerebral White Matter,"(55, 71, 41)",0.9429048895835876
+4_1,1,Right Caudate,"(52, 65, 44)",0.9747535586357117
+4_2,1,Right Cerebral White Matter,"(57, 73, 47)",0.8134334087371826
+4_3,0,Right Cerebral White Matter,"(54, 76, 48)",0.8377708792686462
+4_4,0,Right Cerebral White Matter,"(55, 75, 48)",0.8089359998703003
+4_5,0,Right Cerebral White Matter,"(54, 76, 48)",0.803666353225708
+4_6,1,Right Cerebral White Matter,"(50, 76, 47)",0.9085803627967834
+4_7,1,Right Caudate,"(53, 65, 45)",0.9759846925735474
+5_0,0,Right Cerebral White Matter,"(52, 66, 49)",0.998960018157959
+5_1,0,Right Cerebral White Matter,"(51, 76, 46)",0.8669718503952026
+5_2,1,Right Cerebral White Matter,"(52, 66, 49)",0.9989027976989746
+5_3,1,Right Cerebral White Matter,"(57, 72, 43)",0.7427493333816528
+5_4,0,Right Cerebral White Matter,"(57, 73, 46)",0.9667826294898987
